@@ -1,3 +1,5 @@
+©Spencer Hiscox, 2023
+
 #pragma once
 #include "List.h"
 #include <iostream>
