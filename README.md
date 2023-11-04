@@ -1,4 +1,4 @@
-Copyright© Spencer Hiscox, 2023
+Copyright© Spencer Hiscox, 2023<br />
 All Rights Reserved
 
 ©Spencer Hiscox, 2023. All rights reserved.
