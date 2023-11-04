@@ -1,4 +1,8 @@
-©Spencer Hiscox, 2023
+/*
+Copyright© Spencer Hiscox, 2023
+All Rights Reserved
+*/
+
 
 #pragma once
 #include "Node.h"
